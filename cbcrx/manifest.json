@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "cbcrx",
+    "version": "0.1",
+    "content_scripts": [
+        {
+          "matches": [
+            "<all_urls>"
+          ],
+          "js": ["content.js"],
+          "css" : ["content.css"]
+        }
+      ],
+      "web_accessible_resources": [
+        "data/*.json"
+    ]
+}

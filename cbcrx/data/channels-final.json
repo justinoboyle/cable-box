@@ -1,0 +1,559 @@
+[
+    null,
+    null,
+    {
+        "path": "hulu@fa8a3648-37db-44bb-8790-fc539e5af526",
+        "name": "CBS",
+        "number": 2
+    },
+    null,
+    {
+        "path": "hulu@9dfe1d98-e382-4c1c-be95-d7da44439302",
+        "name": "WNBC NBC",
+        "number": 4
+    },
+    {
+        "path": "hulu@30dfd61f-8b35-49f3-b93c-6220c58b80dc",
+        "name": "WNYW FOX",
+        "number": 5
+    },
+    null,
+    {
+        "path": "hulu@d8ea2b7d-d87d-4e5b-bfee-719a39e95129",
+        "name": "WABC ABC",
+        "number": 7
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@445fc5cb-8245-4ce5-964a-4fd9ba92e4d1",
+        "name": "FX",
+        "number": 53
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@13978f5d-e315-41aa-97ad-040b890304bc",
+        "name": "ESPN",
+        "number": 70
+    },
+    null,
+    null,
+    {
+        "path": "hulu@3f8658f7-bbc4-4eb5-b02d-9c668ef0e88f",
+        "name": "ESPN U",
+        "number": 73
+    },
+    {
+        "path": "hulu@91f024bc-a88b-498d-98fe-8cc63285ee68",
+        "name": "ESPN2",
+        "number": 74
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@fbac21c4-91c0-4c0b-b58f-f9e803bffbed",
+        "name": "Big Ten Network",
+        "number": 85
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@ca41e8c0-932e-4365-a2b1-1a60e4d91498",
+        "name": "Olympic Channel",
+        "number": 91
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@77c1d69b-93a6-45d8-b7d1-6d39cde0e820",
+        "name": "CNN",
+        "number": 100
+    },
+    {
+        "path": "hulu@0600ad07-6a30-4a5d-bfeb-348d28efc2f7",
+        "name": "HLN",
+        "number": 101
+    },
+    {
+        "path": "hulu@cdf4c4c7-58ac-4fb4-9d48-cc645bdd089c",
+        "name": "CNBC",
+        "number": 102
+    },
+    {
+        "path": "hulu@920e4e9c-7cd6-40f2-b24f-0f0baf4d3eb2",
+        "name": "MSNBC",
+        "number": 103
+    },
+    null,
+    {
+        "path": "hulu@8e5dc4b3-4fa9-47c5-a402-0f87e9c7c64a",
+        "name": "CNN International",
+        "number": 105
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@9fec1bb4-9059-493d-a4c5-fedc84672445",
+        "name": "National Geographic",
+        "number": 121
+    },
+    null,
+    {
+        "path": "hulu@972f92a8-0df2-4272-b2cb-c3748ee186b1",
+        "name": "Investigation Discovery",
+        "number": 123
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@b293624f-4105-4a60-8375-86e875d10c65",
+        "name": "History",
+        "number": 128
+    },
+    null,
+    {
+        "path": "hulu@baa14ab4-e02d-4ff4-9e31-732c0584e24e",
+        "name": "Animal Planet",
+        "number": 130
+    },
+    null,
+    {
+        "path": "hulu@b994eb06-aa61-459e-a80a-f175edc18c54",
+        "name": "National Geographic Wild",
+        "number": 132
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@67471b6d-9e43-450f-b035-df66ec70f768",
+        "name": "TLC",
+        "number": 139
+    },
+    {
+        "path": "hulu@a26a77ac-8e6a-4d2a-80c2-c5feaabd1bdf",
+        "name": "Lifetime",
+        "number": 140
+    },
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@6e2a0960-aedf-4aaa-9e19-865ef1b6bd66",
+        "name": "Oxygen",
+        "number": 144
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@c80c749b-cdda-4c73-bca6-2bfbf3dcee8f",
+        "name": "Food Network",
+        "number": 164
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@71c45a09-2967-4e08-ab6a-d96c77251f24",
+        "name": "Travel Channel",
+        "number": 170
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@db0b43c0-7bb8-4fbd-bddd-022a5e0ebc5a",
+        "name": "A&E",
+        "number": 181
+    },
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@d132a0bf-f84d-4d37-8de6-6f3cd4531e5b",
+        "name": "Bravo",
+        "number": 185
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@c9774da9-8cc4-4b54-9a83-728fa4cf0013",
+        "name": "FXX",
+        "number": 191
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@7927a059-4e74-4546-ba26-47f23f290d22",
+        "name": "Freeform",
+        "number": 199
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@54db3bce-c160-4aca-8dc2-e59d04d8188a",
+        "name": "Disney XD",
+        "number": 251
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "path": "hulu@00d5cae8-81e5-4809-93f8-e4d2c8cfeb92",
+        "name": "Disney Junior",
+        "number": 260
+    },
+    null,
+    null,
+    {
+        "path": "hulu@540b509b-dea8-4fbf-bab4-0889a1b2d8fe",
+        "name": "Universal Kids",
+        "number": 263
+    },
+    {
+        "path": "hulu@caf42e12-4e2b-4370-9d13-f158578ef519",
+        "name": "Cheddar Business",
+        "number": 264
+    },
+    {
+        "path": "hulu@a5a69019-26cb-461b-81c8-933b741e445a",
+        "name": "ABC News",
+        "number": 265
+    },
+    {
+        "path": "hulu@89ab919b-1a3e-47cc-a2b7-dc36a464a723",
+        "name": "YES",
+        "number": 266
+    },
+    {
+        "path": "hulu@1b3523c1-3090-4c27-a1e8-a04d33867c34",
+        "name": "HBO Zone West",
+        "number": 267
+    },
+    {
+        "path": "hulu@968d3bf1-8320-403c-9375-a5e978b208b0",
+        "name": "Boomerang",
+        "number": 268
+    },
+    {
+        "path": "hulu@84334a00-8787-41c2-8be9-e0a3922edd7c",
+        "name": "Cartoon Network West",
+        "number": 269
+    },
+    {
+        "path": "hulu@d2e4d521-58bc-48b3-a60e-026c5af24e46",
+        "name": "CBS News",
+        "number": 270
+    },
+    {
+        "path": "hulu@31afc8b4-a089-42a1-b5b1-37e957de44a7",
+        "name": "CBS Sports",
+        "number": 271
+    },
+    {
+        "path": "hulu@8c75e622-5128-42db-96e6-8e88244ecca6",
+        "name": "Cozi",
+        "number": 272
+    },
+    {
+        "path": "hulu@65af123e-a99f-4111-b7b0-b78f15350430",
+        "name": "Discovery",
+        "number": 273
+    },
+    {
+        "path": "hulu@2b03315a-d191-402a-a834-3b8d33e5df63",
+        "name": "Disney",
+        "number": 274
+    },
+    {
+        "path": "hulu@81513519-2d34-4413-ba8e-e77f3d97d87e",
+        "name": "E!",
+        "number": 275
+    },
+    {
+        "path": "hulu@13ef11a1-9d71-423b-b19c-6f299a0e1882",
+        "name": "ESPN News",
+        "number": 276
+    },
+    {
+        "path": "hulu@526906e5-7bcb-4e00-9a20-27ae2fe13dc9",
+        "name": "FS1",
+        "number": 277
+    },
+    {
+        "path": "hulu@da550fa0-8397-4443-9ef2-888979d5fdd7",
+        "name": "FS2",
+        "number": 278
+    },
+    {
+        "path": "hulu@4bf8f9e6-2396-41d4-8c5d-281d1c4d81c5",
+        "name": "FXM",
+        "number": 279
+    },
+    {
+        "path": "hulu@efa36fda-b813-49e6-8600-65e19d1f6be8",
+        "name": "NBC Golf",
+        "number": 280
+    },
+    {
+        "path": "hulu@c05519f6-2df6-4dcc-9c7e-9d4146c44e45",
+        "name": "HGTV",
+        "number": 281
+    },
+    {
+        "path": "hulu@4373dbc4-0bae-4015-bc0c-518b056bf43b",
+        "name": "MT",
+        "number": 282
+    },
+    {
+        "path": "hulu@df5b1bb4-6fc2-4552-963a-abcb84411f90",
+        "name": "myNetwork TV",
+        "number": 283
+    },
+    {
+        "path": "hulu@3d671005-dbf9-4d71-827d-aeb7c729b9f8",
+        "name": "NBC Sports Network",
+        "number": 284
+    },
+    {
+        "path": "url@https://players.brightcove.net/1675170007001/Hyo4oydd_default/index.html?videoId=5409242031001",
+        "name": "EWTN USA",
+        "number": 285
+    },
+    {
+        "path": "hulu@37e3de8d-8b93-4959-af26-bc90b1954639",
+        "name": "SEC Network",
+        "number": 286
+    },
+    {
+        "path": "hulu@6d78d6c3-41af-45bc-be22-4c9aeffad5b9",
+        "name": "Smithsonian Channel",
+        "number": 287
+    },
+    {
+        "path": "hulu@13e2f2d3-e158-48f8-a54a-f98bb11bc746",
+        "name": "Sportsnet New York",
+        "number": 288
+    },
+    {
+        "path": "hulu@166a75d6-f8a4-4f42-a6ca-a5f25fe6991c",
+        "name": "SYFY",
+        "number": 289
+    },
+    {
+        "path": "hulu@d3c92930-65e7-4f65-8064-818db30cdea1",
+        "name": "TBS West",
+        "number": 290
+    },
+    {
+        "path": "hulu@6c38d5ec-b0eb-4c31-9179-68700e283a38",
+        "name": "TCM West",
+        "number": 291
+    },
+    {
+        "path": "hulu@04c83fe2-7e3d-434d-84b5-695d6be8953b",
+        "name": "Telemundo 47",
+        "number": 292
+    },
+    {
+        "path": "hulu@fc29059f-629e-4702-8eac-2f721e834b45",
+        "name": "TNT West",
+        "number": 293
+    },
+    {
+        "path": "hulu@a3d07f2a-87ff-49fb-b370-a1b00b4bd0ac",
+        "name": "TruTV West",
+        "number": 294
+    },
+    {
+        "path": "hulu@b933575c-d50d-471b-bbab-7d1dea5cb1aa",
+        "name": "USA",
+        "number": 295
+    },
+    {
+        "path": "hulu@a103ca30-cf56-48ef-8a94-877b528e8f4e",
+        "name": "Viceland",
+        "number": 296
+    }
+]
