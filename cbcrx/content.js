@@ -30,8 +30,9 @@ setInterval(() => {
     Object.values(document.getElementsByClassName('vjs-menu-item')).filter(a => a.innerText.includes('CC1'))[0].click()
     }catch(e) {}
 }, 2000)
-setTimeout(() => {var node = document.createElement("inject");
-let sp = "player-container"
+setTimeout(() => {
+    var node = document.createElement("inject");
+let sp = "Player__container"
 if(window.location.href.includes('brightcove.net')) {
     sp = "video-js"
     console.log("ABC!")
@@ -45,7 +46,8 @@ function PLAYBR() {
     console.log(document.getElementsByClassName('vjs-big-play-button')[0])
     document.getElementsByClassName('vjs-big-play-button')[0].click()
 }
-document.getElementsByClassName(sp)[0].prepend(node); document.getElementsByTagName('inject')[0].innerHTML = window.INJECT; r() }, 10)
+document.getElementsByClassName(sp)[0].prepend(node); document.getElementsByTagName('inject')[0].innerHTML = window.INJECT; r() 
+}, 50)
 function r() {
     let buf = ""
 let tr = -1
