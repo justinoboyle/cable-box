@@ -14,3 +14,7 @@ back-to-browse-widget {
 .controls-bar-container {
     display: none !important;
 } */
+.guide {
+    opacity:0 !important;
+    display:none;
+}

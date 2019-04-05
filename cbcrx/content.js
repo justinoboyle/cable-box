@@ -31,7 +31,7 @@ setInterval(() => {
     }catch(e) {}
 }, 2000)
 setTimeout(() => {var node = document.createElement("inject");
-let sp = "Player__container"
+let sp = "player-container"
 if(window.location.href.includes('brightcove.net')) {
     sp = "video-js"
     console.log("ABC!")
